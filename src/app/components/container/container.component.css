@@ -1,0 +1,19 @@
+#container
+{
+  height: calc(100vh - 160px);
+  display: flex;
+  background-color: aqua;
+
+}
+#main{
+  flex: 3;
+}
+.navbar{
+  flex: 1;
+}
+@media screen and (max-width:900px) {
+  #container{
+    flex-direction: column-reverse;
+  }
+
+}

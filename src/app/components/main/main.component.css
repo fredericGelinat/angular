@@ -1,0 +1,14 @@
+#main
+{
+  height:calc(100% - 10px);
+  display: flex;
+  padding: 5px;
+  gap: 5px;
+}
+#article{
+  flex: 2;
+}
+#aside-container{
+  flex: 1;
+}
+

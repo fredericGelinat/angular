@@ -1,0 +1,12 @@
+header{
+  height: 60px;
+  background-color: rgb(126, 213, 184);
+  color: aliceblue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+}

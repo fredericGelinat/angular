@@ -1,0 +1,12 @@
+footer{
+  height: 100px;
+  background-color: rgb(16, 45, 36);
+  color: aliceblue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
